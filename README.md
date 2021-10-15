@@ -1,8 +1,9 @@
+ <div align="center">
  <h1> Hello! I'm Vivi. 👩🏻‍💻</h1> 
 <h2>A passionate frontend student.<h2>
  
 
-  <div align="center">
+
   
  <img src="https://cdn.discordapp.com/attachments/469247110286409742/875169875843223562/tenor_1.gif"/>
    <br>
