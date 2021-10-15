@@ -4,7 +4,7 @@
 
   <div align="center">
   
- <alt="futaba" src="https://cdn.discordapp.com/attachments/469247110286409742/875169875843223562/tenor_1.gif">
+ <img src="https://cdn.discordapp.com/attachments/469247110286409742/875169875843223562/tenor_1.gif"/>
    <br>
    <br>
   <a href="https://github.com/unverzed">
