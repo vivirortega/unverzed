@@ -14,23 +14,31 @@
  
 
    <br>
-   <br>
  
  <h2>📊 Statistics</h2>
- <div>
+ <div align="center">
 
- 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=unverzed&show_icons=true&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unverzed&layout=compact&langs_count=16&theme=radical"/>
+ </div>
+ <br>
+ <div align="center">
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
  </div>
   
  <h2>📫 Connect with me: </h2>
  <div align="center">
 <a href="https://instagram.com/vivirortega" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/vitoriarortega/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:vitoriarortega@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
  <br>
  <br>
- <img src="https://media.discordapp.net/attachments/828075838259331093/951306833325338714/serial-experiments-lain-yasuo-iwakura_1.gif?width=665&height=473"/>
+ <img height="900em" src="https://media.discordapp.net/attachments/828075838259331093/951316551934546020/anil-demir-lainroom-animated-002.gif?width=710&height=473"/>
 </div>
  
 
