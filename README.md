@@ -17,7 +17,6 @@
  
  <h2>📊 Statistics</h2>
  <div align="center">
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unverzed&show_icons=true&theme=radical"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unverzed&layout=compact&langs_count=16&theme=radical"/>
  </div>
@@ -38,7 +37,7 @@
 
  <br>
  <br>
- <img height="900em" src="https://media.discordapp.net/attachments/828075838259331093/951316551934546020/anil-demir-lainroom-animated-002.gif?width=710&height=473"/>
+ <img height="700em" src="https://media.discordapp.net/attachments/828075838259331093/951316551934546020/anil-demir-lainroom-animated-002.gif?width=710&height=473"/>
 </div>
  
 
