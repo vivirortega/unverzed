@@ -11,7 +11,7 @@
  <ul>
  <li>Pronouns: she/her.
    <li>I'm a Full-Stack Web Developer, i'm part of T5 at Driven Education.
-    <li>I'm currently studying ReactJS.
+    <li>I'm currently studying NodeJS.
  <li>Curiosity about me: I'm estp-t and enneagram type 8.</li>
   </ul>
 
