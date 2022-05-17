@@ -18,9 +18,7 @@
    <br>
  
  <h2>📊 Statistics</h2>
- <div align="center">
-<img height="160em" src="(https://github-readme-stats.vercel.app/api/wakatime?username=unverzed)](https://github.com/unverzed/github-readme-stats)"/>
- </div>
+ 
  <br>
  <div align="center">
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
