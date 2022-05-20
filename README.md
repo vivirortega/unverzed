@@ -5,15 +5,17 @@
  </div>
 <br>
  <br>
-<div>
-  <img align="right" width="150px" src="https://media.discordapp.net/attachments/828075838259331093/951320479090745444/output_ZRzGID.gif?width=473&height=473"/>
-</div>
+ <div align="right">
+<img width="150px" src="https://media.discordapp.net/attachments/828075838259331093/951320479090745444/output_ZRzGID.gif?width=473&height=473"/>
+  </div>
+ <br>
  <ul>
  <li>Pronouns: she/her.
    <li>I'm a Full-Stack Web Developer, i'm part of T5 at Driven Education.
-    <li>I'm currently studying NodeJS.
+    <li>I'm currently studying NodeJS and MongoDB.
  <li>Curiosity about me: I'm estp-t and enneagram type 8.</li>
   </ul>
+
 
    <br>
  
