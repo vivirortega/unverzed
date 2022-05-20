@@ -20,7 +20,6 @@
    <br>
  
  <h2>📊 Statistics</h2>
- 
  <br>
  <div align="center">
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -30,6 +29,11 @@
  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+ <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+ </div>
+ <br>
+ <div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=unverzed&show_icons=true&theme=radical">
  </div>
   
  <h2>📫 Connect with me: </h2>
