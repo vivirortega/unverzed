@@ -12,7 +12,7 @@
  <ul>
  <li>Pronouns: she/her.
    <li>I'm a Full-Stack Web Developer, i'm part of T5 at Driven Education.
-    <li>I'm currently studying NodeJS and MongoDB.
+    <li>I'm currently studying mySQL.
  <li>Curiosity about me: I'm estp-t and enneagram type 8.</li>
   </ul>
 
@@ -30,6 +30,7 @@
  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+ <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
  </div>
  <br>
  <div align="center">
