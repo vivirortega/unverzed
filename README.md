@@ -5,16 +5,17 @@
  </div>
 <br>
  <br>
- <div align="right">
+ <div align="center">
 <img width="150px" src="https://media.discordapp.net/attachments/828075838259331093/951320479090745444/output_ZRzGID.gif?width=473&height=473"/>
   </div>
+  <div align="center">
  <br>
- <ul>
- <li>Pronouns: she/her.
-   <li>I'm a Full-Stack Web Developer, i'm part of T5 at Driven Education.
-    <li>I'm currently studying mySQL.
- <li>Curiosity about me: I'm estp-t and enneagram type 8.</li>
-  </ul>
+ <div align="center">
+  <p>Pronouns: she/her.</p>
+  <p>I'm a Full-Stack Web Developer, i'm part of T5 at Driven Education.</p>
+  <p>I'm currently studying mySQL.</p>
+ <p>Curiosity about me: I'm estp-t and enneagram type 8.</pi>
+ </div>
 
 
    <br>
@@ -31,6 +32,9 @@
  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+ <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+ <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
+ <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
  </div>
  <br>
  <div align="center">
