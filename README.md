@@ -5,17 +5,13 @@
  </div>
 <br>
  <br>
- <div align="center">
-<img width="150px" src="https://media.discordapp.net/attachments/828075838259331093/951320479090745444/output_ZRzGID.gif?width=473&height=473"/>
-  </div>
-  <div align="center">
- <br>
- <div align="center">
-  <p>Pronouns: she/her.</p>
-  <p>I'm a Full-Stack Web Developer, i'm part of T5 at Driven Education.</p>
-  <p>I'm currently studying mySQL.</p>
- <p>Curiosity about me: I'm estp-t and enneagram type 8.</pi>
- </div>
+ <ul>
+  <li>Pronouns: she/her.</li>
+  <li>I'm a Full-Stack Web Developer, i'm part of T5 at Driven Education.</li>
+  <li>I'm currently studying mySQL.</li>
+ <li>Curiosity about me: I'm estp-t and enneagram type 8.</li>
+  </ul>
+ 
 
 
    <br>
