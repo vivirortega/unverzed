@@ -8,7 +8,7 @@
  <ul>
   <li>Pronouns: she/her.</li>
   <li>I'm a Full-Stack Web Developer, i'm part of T5 at Driven Education.</li>
-  <li>I'm currently studying mySQL.</li>
+  <li>I'm currently studying Typescript.</li>
  <li>Curiosity about me: I'm estp-t and enneagram type 8.</li>
   </ul>
  
@@ -31,6 +31,7 @@
  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
  </div>
  <br>
  <div align="center">
