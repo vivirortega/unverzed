@@ -40,7 +40,7 @@
  <h2>📫 Connect with me: </h2>
  <div align="center">
  <a href="https://www.linkedin.com/in/vitoriarortega/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:vitoriarortega@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:vivirortega@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://open.spotify.com/user/22wfzfnt6vnvvjntv7jmlvblq?si=NpHBK_DaRd2XC7q7S8GHiw&nd=1" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a> 
 
  <br>
