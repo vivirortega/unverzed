@@ -7,7 +7,7 @@
  <br>
  <ul>
   <li>Pronouns: she/her.</li>
-  <li>I'm a Full-Stack Web Developer, student in Driven Education.</li>
+  <li>I'm a Full-Stack Web Developer, student at Driven Education.</li>
  <li>Curiosity about me: I'm estp-t and enneagram type 8.</li>
   </ul>
  
