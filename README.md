@@ -1,13 +1,13 @@
  <div align="center">
  <h1> Hello! I'm Vivi. 👩🏻‍💻</h1> 
- <h2>A passionate software engineer student.</h2>
+ <h2>A passionate Front-end Developer.</h2>
    <img src="https://cdn.discordapp.com/attachments/469247110286409742/875169875843223562/tenor_1.gif"/>
  </div>
 <br>
  <br>
  <ul>
   <li>Pronouns: she/her.</li>
-  <li>I'm a Full-Stack Web Developer, student at Driven Education.</li>
+  <li>I graduated from Driven Education in Full Stack Development. </li>
  <li>Curiosity about me: I'm estp-t and enneagram type 8.</li>
   </ul>
  
