@@ -33,9 +33,6 @@
  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
  </div>
  <br>
- <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=unverzed&show_icons=true&theme=radical">
- </div>
   
  <h2>📫 Connect with me: </h2>
  <div align="center">
